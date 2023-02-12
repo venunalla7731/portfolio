@@ -1,0 +1,121 @@
+  {
+    "main": {
+      "name": "Venu Nalla",
+      "occupation": "UI Developer",
+      "description": "ReactJS and Angular Developer",
+      "image": "venu.jpg",
+      "bio": "My name is Venu, I'm a UI ReactJS Developer. Currently I'm working at Wells Fargo.",
+      "contactmessage": "Get in touch with me to know more details about me.",
+      "email": "Venunallaweb@gmail.com",
+      "phone": "+18164622019",
+      "address": {
+        "street": "Market Street",
+        "city": "San Franscisco",
+        "state": "USA",
+        "zip": "94105"
+      },
+      
+      "website": "https://drive.google.com/file/d/1WzYFA5QziOnkcaPjgQGRM4VJY1hkg1Xz/view?usp=sharing",
+      "resumedownload": "https://drive.google.com/file/d/1WzYFA5QziOnkcaPjgQGRM4VJY1hkg1Xz/view?usp=sharing",
+      "social": [
+  
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/venu-n-327b09192",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/venunalla7731",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+      "education": [
+        {
+          "school": "University of Central Missouri",
+          "degree": "Masters in Computer Information Systems",
+          "graduated": "May 2015",
+          "description": "Graduated with Distinction"
+        }
+      ],
+      "work": [
+        {
+          "company": "Wells Fargo ",
+          "title": "UI Developer",
+          "years": "Nov 2018 - Present",
+          "description": "Working on Internal website using ReactJS"
+        },
+        {
+          "company": "CVS Health ",
+          "title": "UI Developer",
+          "years": "Jan 2018 - Nov 2018",
+          "description": "Worked on Specialty process and productivity (SPP) using Angular"
+        },
+        {
+          "company": "Sprint Corporation ",
+          "title": "UI Developer",
+          "years": "Jan 2017 - Jan 2018",
+          "description": "Worked on Sprint.com/Deals Section using Angular"
+        },
+        {
+          "company": "Facebook, Inc. ",
+          "title": "UI Developer",
+          "years": "Sep 2016 - Jan 2018",
+          "description": "Worked on Facebook blueprint to explore self-paced and step-by-step tutorials using Adapt.js"
+        },
+        {
+          "company": "Apple. Inc. ",
+          "title": "UI Developer",
+          "years": "Dec 2015 - Sep 2016",
+          "description": "Worked on https://appstoreconnect.apple.com/login to track the employees payrolls and working hours using Angular"
+        },
+        {
+          "company": "Chico's FAS Inc ",
+          "title": "Front End Developer / Internship ",
+          "years": "Jan 2015 - Dec 2015",
+          "description": "Worked on Updating https://www.chicos.com/store/ banners and Home Page using HTML,CSS ,Javascript and Bootstrap"
+        }
+      ],
+      "skills": [
+        {
+          "name": "ReactJs",
+          "level": "100%"
+        },
+        {
+          "name": "CSS",
+          "level": "95%"
+        },
+        {
+          "name": "Git",
+          "level": "95%"
+        },
+        {
+          "name": "Angular",
+          "level": "85%"
+        },
+        {
+          "name": "HTML5",
+          "level": "80%"
+        },
+        {
+          "name": "TypeScript",
+          "level": "90%"
+        }
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "Venu was a lead developer for a high-profile, fast-tracked IT project that involved business segments beyond our team. Venu made himself available around the clock to troubleshoot and collaborate with onshore and offshore development teams. Venu is highly capable and extremely engaging within a cross-funtional team structure; waterfall and pseudo-Agile run experience. His skillset and expertise helped me get a project from red to green and successfully released on time and budget. I highly recommend Venu!",
+          "user": "John Winegarden, CSM, ICP"
+        },
+        {
+          "text": "Venu is an excellent Front End Engineer. We worked together at Wells Fargo in the same team for two years. He is extremely methodical and thorough.His grasp of various front end technologies allows him to explore a plethora of possible solutions to any given problem. His innate ability to learn and adapt to new things quickly makes him a sought-after team member !",
+          "user": "Ashish Korpe"
+        }
+      ]
+    }
+  }
