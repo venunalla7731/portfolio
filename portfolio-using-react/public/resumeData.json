@@ -4,7 +4,7 @@
     "occupation": "UI Developer",
     "description": "ReactJS and Angular Developer",
     "image": "venu.jpg",
-    "bio": "My name is Venu, I'm a UI ReactJS Developer. Currently I'm working at Wells Fargo.",
+    "bio": "I am UI Developer with experience in developing Single Page Applications and dynamic responsive Web applications with Angular 9 HTML5, CSS3, JavaScript, jQuery, AJAX, AngularJS, Angular2/4/9 and above, ReactJS, JSON and I am currently holding a position of UI developer in H&R Block. I have strong communication, planning, and problem-solving skills with the ability to work independently or with cross-functional teams.",
     "contactmessage": "Get in touch with me to know more details about me.",
     "email": "Venu7731@gmail.com",
     "phone": "+17706094996",
@@ -15,10 +15,9 @@
       "zip": "66223"
     },
     "website": "https://drive.google.com/file/d/1ILor1EGHzMubKkaNe6sidzb0I1g7Kvfw/view?usp=sharing",
-    "resumedownload": "https://drive.google.com/file/d/1ILor1EGHzMubKkaNe6sidzb0I1g7Kvfw/view?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1Qa9QIP2pSje2AwhbXwxf1MEcCAwXH-Ut/edit?usp=sharing",
     "className": "fa fa-envelope-open-o",
     "social": [
-
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/venu-n-327b09192",
@@ -32,7 +31,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here is additional information.",
     "education": [
       {
         "school": "Jawaharlal Nehru Technological University Hyderabad",
@@ -43,52 +42,46 @@
     ],
     "work": [
       {
-        "company": "Wells Fargo ",
-        "title": "UI Developer",
-        "years": "Nov 2018 - Present",
-        "description": "Working on Internal website using ReactJS"
+        "company": "H&R Block ",
+        "title": "Java UI Developer",
+        "years": "Nov 2020- Till now",
+        "description": "Created and Implemented Visual Style Guides (including style sheets, templates, scripts, and coding) that shall be in accordance with the H&R Block Visual Identity and Angular for Chrysalis Microsites project. Enabled web analytics tools such as Adobe Analytics (AEM), to capture, analyze and produce reports on optimization demand. Also Contributed to Spruce which is H&R Block’s mobile banking platform to help everyone be good with their finances focusing on ReactJS. I was a part of the Virtual Submissions project, responsible for handling the Digital Drop-off (DDO) and Financial Services Product (FSP)."
+      },
+      {
+        "company": "Wells Fargo",
+        "title": "Java UI Developer ",
+        "years": "Nov 2018 - Nov 2020",
+        "description": "The project is mainly based on ACH (automated clearing house) and WIRE transfer which are payment methods involving transferring funds from one account to another. Wire transfer is done directly between a sending and receiving account, while ACH transfers use the automated clearing house as an intermediary of the sort."
       },
       {
         "company": "CVS Health ",
         "title": "UI Developer",
         "years": "Jan 2018 - Nov 2018",
-        "description": "Worked on Specialty process and productivity (SPP) using Angular"
+        "description": "Specialty process and productivity (SPP) is a project which is redesigning Project based on legacy application SPARCS. SPARCS is the specialty pharmacy account receivable computer system. This system was designed to allow users to create and submit invoices for billing, apply payments to charges, and manage patient accounts."
       },
       {
         "company": "Sprint Corporation ",
         "title": "UI Developer",
         "years": "Jan 2017 - Jan 2018",
-        "description": "Worked on Sprint.com/Deals Section using Angular"
+        "description": "E-Payment system is a multi-tier Electronic Payment System that allows sub layers to make a payment on behalf of customer’s or establishes recurring automatic payment of the customer’s Sprint bill right from the Web. Those recurring automatic payments can only be made from customer’s credit card. Customers and sales representatives can access the data regarding the payment system."
       },
       {
         "company": "Facebook, Inc. ",
         "title": "UI Developer",
-        "years": "Sep 2016 - Jan 2018",
-        "description": "Worked on Facebook blueprint to explore self-paced and step-by-step tutorials using Adapt.js"
+        "years": "Sep 2016 - Jan 2017",
+        "description": "Responsible for creating Facebook blueprint to explore self-paced and step-by-step tutorials that can help you build your digital marketing knowledge and bring your business online using Adapt.JS. The goal of the program is to empower users with the necessary knowledge and tools to effectively promote their business online and reach a wider audience."
       },
       {
         "company": "Apple. Inc. ",
         "title": "UI Developer",
         "years": "Dec 2015 - Sep 2016",
-        "description": "Worked on https://appstoreconnect.apple.com/login to track the employees payrolls and working hours using Angular"
+        "description": "The aim of the project was to develop a web-based online application where the Internal Employees can access their account details like the account information, Commute info, punch in and punch out schedules. They can view details of current balances, account statements for a specific period of day, hour’s history, checks history, address information online."
       },
       {
         "company": "Chico's FAS Inc ",
         "title": "Front End Developer / Internship ",
-        "years": "Jan 2015 - Dec 2015",
-        "description": "Worked on Updating https://www.chicos.com/store/ banners and Home Page using HTML,CSS ,Javascript and Bootstrap"
-      },
-      {
-        "company": "AT&T Alpharetta GA  ",
-        "title": "Front End Developer ",
-        "years": "Sep 2014- Jan 2015",
-        "description": "https://www.att.com/wireless/"
-      },
-      {
-        "company": "Q Burst Technologies Pvt Ltd, India ",
-        "title": "UI Developer ",
-        "years": "March 2013 – Sep 2014",
-        "description": "https://www.qburst.com/"
+        "years": "July 2015 - Dec 2015",
+        "description": "Oversaw and creating, implementing and developing new applications and Brand websites which included new interface and dynamic pages for Chico’s production website Involved in managing project in digital and e-commerce by adding transactional UI frames and  payment methods."
       }
     ],
     "skills": [
