@@ -34,10 +34,16 @@
     "skillmessage": "Here is additional information.",
     "education": [
       {
+        "school": "University of Central Missouri, Warrensburg, MO, USA",
+        "degree": "Master's in Science",
+        "graduated": "May 2015",
+        "description": "Computer Information Systems"
+      },
+      {
         "school": "Jawaharlal Nehru Technological University Hyderabad",
         "degree": "Bachelor of technology",
         "graduated": "May 2013",
-        "description": "Graduated with Distinction"
+        "description": "computer science and engineering"
       }
     ],
     "work": [
@@ -45,31 +51,31 @@
         "company": "H&R Block ",
         "title": "Java UI Developer",
         "years": "Nov 2020- Till now",
-        "description": "Created and Implemented Visual Style Guides (including style sheets, templates, scripts, and coding) that shall be in accordance with the H&R Block Visual Identity and Angular for Chrysalis Microsites project. Enabled web analytics tools such as Adobe Analytics (AEM), to capture, analyze and produce reports on optimization demand. Also Contributed to Spruce which is H&R Block’s mobile banking platform to help everyone be good with their finances focusing on ReactJS. I was a part of the Virtual Submissions project, responsible for handling the Digital Drop-off (DDO) and Financial Services Product (FSP)."
+        "description": "As a part of the Chrysalis Microsites project, I created and implemented visual style guides in accordance with H&R Block's visual identity, using Angular. I also enabled web analytics tools such as Adobe Analytics (AEM) to optimize the performance of the microsites. Additionally, I contributed to the development of H&R Block's mobile banking platform, Spruce, using ReactJS and was responsible for handling the Digital Drop-off (DDO) and Financial Services Product (FSP) processes as part of the Virtual Submissions project."
       },
       {
         "company": "Wells Fargo",
         "title": "Java UI Developer ",
         "years": "Nov 2018 - Nov 2020",
-        "description": "The project is mainly based on ACH (automated clearing house) and WIRE transfer which are payment methods involving transferring funds from one account to another. Wire transfer is done directly between a sending and receiving account, while ACH transfers use the automated clearing house as an intermediary of the sort."
+        "description": "The project, which was built using React, focuses on payment methods through ACH (automated clearing house) and wire transfers. Funds are transferred from one account to another through either a direct wire transfer between the sender and recipient accounts or an ACH transfer, where the automated clearing house acts as an intermediary."
       },
       {
         "company": "CVS Health ",
         "title": "UI Developer",
         "years": "Jan 2018 - Nov 2018",
-        "description": "Specialty process and productivity (SPP) is a project which is redesigning Project based on legacy application SPARCS. SPARCS is the specialty pharmacy account receivable computer system. This system was designed to allow users to create and submit invoices for billing, apply payments to charges, and manage patient accounts."
+        "description": "The Specialty Process and Productivity (SPP) project is a redesign of the legacy application SPARCS, which stands for the Specialty Pharmacy Account Receivable Computer System. The aim of SPARCS is to provide users with a system to create and submit invoices for billing, apply payments to charges, and manage patient accounts effectively. The SPP project is aimed at modernizing and improving the functionality of this existing system."
       },
       {
         "company": "Sprint Corporation ",
         "title": "UI Developer",
         "years": "Jan 2017 - Jan 2018",
-        "description": "E-Payment system is a multi-tier Electronic Payment System that allows sub layers to make a payment on behalf of customer’s or establishes recurring automatic payment of the customer’s Sprint bill right from the Web. Those recurring automatic payments can only be made from customer’s credit card. Customers and sales representatives can access the data regarding the payment system."
+        "description": "I worked on the E-Payment system, a multi-tier electronic payment solution that allows sub-layers to make payments on behalf of customers or set up recurring automatic payments for a customer's Sprint bill directly from the web. These recurring payments can only be made using a customer's credit card, and both customers and sales representatives have access to the payment system data."
       },
       {
         "company": "Facebook, Inc. ",
         "title": "UI Developer",
         "years": "Sep 2016 - Jan 2017",
-        "description": "Responsible for creating Facebook blueprint to explore self-paced and step-by-step tutorials that can help you build your digital marketing knowledge and bring your business online using Adapt.JS. The goal of the program is to empower users with the necessary knowledge and tools to effectively promote their business online and reach a wider audience."
+        "description": "Responsible for designing and implementing a Facebook Blueprint, a technical resource offering self-paced and step-by-step tutorials on various digital marketing concepts and strategies. The tutorials were designed to help individuals build their digital marketing knowledge, improve their skills, and bring their business online effectively."
       },
       {
         "company": "Apple. Inc. ",
