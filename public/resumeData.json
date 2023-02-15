@@ -4,7 +4,7 @@
     "occupation": "UI Developer",
     "description": "ReactJS and Angular Developer",
     "image": "venu.jpg",
-    "bio": "I am UI Developer with experience in developing Single Page Applications and dynamic responsive Web applications with HTML5, CSS3, JavaScript, jQuery, AJAX, AngularJS, Angular2/4/6/10/12, ReactJS, JSON and I am currently holding a position of UI developer in H&R Block. I have strong communication, planning, and problem-solving skills with the ability to work independently or with cross-functional teams.",
+    "bio": "With 7+ years of development experience, I am skilled in HTML5, CSS3, JavaScript, jQuery, AngularJS, Angular2/4/6/10/12, ReactJS, and React Native. I have experience in implementing AJAX features using JavaScript and jQuery, as well as in building user interfaces and SPAs using ReactJS and defining Angular routes using Router Module. Additionally, I have extensive experience in cloud-based projects using platforms such as Amazon Web Services (AWS) and Microsoft Azure. Throughout my career, I have been involved in all stages of the Software Development Life Cycle and Product Life Cycle Management, and have strong communication, planning, and problem-solving skills.",
     "contactmessage": "Get in touch with me to know more details about me.",
     "email": "Venu7731@gmail.com",
     "phone": "+17706094996",
@@ -93,15 +93,15 @@
     "skills": [
       {
         "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "CSS3",
         "level": "100%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
-      },
-      {
         "name": "Git",
-        "level": "95%"
+        "level": "100%"
       },
       {
         "name": "Angular",
@@ -109,7 +109,7 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "TypeScript",

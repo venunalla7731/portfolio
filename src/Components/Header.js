@@ -9,7 +9,7 @@ class Header extends Component {
       var description= this.props.data.description;
       // var city= this.props.data.address.city;
       var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url} target="_blank"><i className={network.className}></i></a></li>
+        return <li key={network.name}><a href={network.url} target="_blank" rel="noopener noreferrer"><i className={network.className}></i></a></li>
       })
     }
 
@@ -37,7 +37,7 @@ class Header extends Component {
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>As a <span>{occupation}</span> based in the United States, I specialize in {description}.</h3>
             <hr />
-            <ul className="social" target="_blank">
+            <ul className="social">
                {networks}
             </ul>
          </div>
